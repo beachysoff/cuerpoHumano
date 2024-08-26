@@ -1,0 +1,46 @@
+body{
+  padding-left: 20px;
+  background-color:#e7b983;
+  font-family: 'Verdana, sans-serif';
+}
+
+p{
+  font-size: 15px;
+  padding-top:10px;
+  color:#05314d;
+  margin-right: 20px;
+}
+
+h1{
+  color:#074064;
+  font-size: 24px;
+}
+
+h3{
+  font-size: 18px;
+  color:#074064;
+}
+
+li{
+  font-size: 15px;
+  padding-top:0px;
+  color:#05314d;
+}
+
+#pieFoto{
+  font-size: 13px;
+  padding-top:0px;
+  font-style: italic;
+}
+
+#foto{
+  border-style: solid;
+  border-color: #6f491d;
+  padding: 5px;
+}
+
+.footer{
+  font-size: 10px;
+  padding-top:0px;
+  font-family: 'Courier New';
+}
